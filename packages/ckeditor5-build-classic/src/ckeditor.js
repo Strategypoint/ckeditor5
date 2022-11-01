@@ -56,6 +56,7 @@ ClassicEditor.builtinPlugins = [
 	ImageUpload,
 	Indent,
 	Link,
+	Base64UploadAdapter,
 	List,
 	MediaEmbed,
 	Paragraph,
